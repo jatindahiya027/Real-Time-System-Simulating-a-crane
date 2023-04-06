@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>f5e3e8b205e4f314e8e465507623634a</guid>
+    <fileName>Assets/crane/hook.cs</fileName>
+    <timeStamp>2023-04-03T23:34:17.1187482+05:30</timeStamp>
+    <typeFullName>
+      <string>hook</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2c9b83caebe6d74b821cf43913315a6</guid>
+    <fileName>Assets/crane/rotation.cs</fileName>
+    <timeStamp>2023-04-03T22:00:48.3601568+05:30</timeStamp>
+    <typeFullName>
+      <string>rotation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e57c80e233587e04380629cec7c76e64</guid>
+    <fileName>Assets/crane/slide.cs</fileName>
+    <timeStamp>2023-04-03T23:00:23.0764918+05:30</timeStamp>
+    <typeFullName>
+      <string>slide</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f45f9fb30c78954f9ba64c9a300d7bd</guid>
+    <fileName>Assets/crane/updown.cs</fileName>
+    <timeStamp>2023-04-03T22:59:38.9904302+05:30</timeStamp>
+    <typeFullName>
+      <string>updown</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>495b6e74d3e72044f883b9a231bde8f7</guid>
+    <fileName>Assets/fish/FishMovement.cs</fileName>
+    <timeStamp>2023-04-04T12:28:06.1562181+05:30</timeStamp>
+    <typeFullName>
+      <string>FishMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>883b53e3591ffb249be70d2fd14a6523</guid>
+    <fileName>Assets/fish/lookat.cs</fileName>
+    <timeStamp>2023-04-04T03:09:49.0823455+05:30</timeStamp>
+    <typeFullName>
+      <string>lookat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f13aa252bd3bf9943b1d65e68d93dcfb</guid>
+    <fileName>Assets/KinematicCharacterController/Core/ICharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:35:03+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.ICharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ae7eceec45f1be4c8450edc46c0ad36</guid>
+    <fileName>Assets/KinematicCharacterController/Core/IMoverController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:37+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.IMoverController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b43d8459fe4812488b2c47ac60e41c3</guid>
+    <fileName>Assets/KinematicCharacterController/Core/KCCSettings.cs</fileName>
+    <timeStamp>2022-06-07T22:34:10+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.KCCSettings</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4d1bc5515e3ab954e80599c538834774</guid>
+    <fileName>Assets/KinematicCharacterController/Core/KinematicCharacterMotor.cs</fileName>
+    <timeStamp>2022-06-07T22:34:19+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.RigidbodyInteractionType</string>
+      <string>KinematicCharacterController.StepHandlingMethod</string>
+      <string>KinematicCharacterController.MovementSweepState</string>
+      <string>KinematicCharacterController.KinematicCharacterMotorState</string>
+      <string>KinematicCharacterController.OverlapResult</string>
+      <string>KinematicCharacterController.CharacterGroundingReport</string>
+      <string>KinematicCharacterController.CharacterTransientGroundingReport</string>
+      <string>KinematicCharacterController.HitStabilityReport</string>
+      <string>KinematicCharacterController.RigidbodyProjectionHit</string>
+      <string>KinematicCharacterController.KinematicCharacterMotor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dbd80c9a62d41084aad50ae44255beb9</guid>
+    <fileName>Assets/KinematicCharacterController/Core/KinematicCharacterSystem.cs</fileName>
+    <timeStamp>2022-06-07T22:34:56+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.KinematicCharacterSystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>075ccbe9837b0744985e09ba3f015b9b</guid>
+    <fileName>Assets/KinematicCharacterController/Core/PhysicsMover.cs</fileName>
+    <timeStamp>2022-06-07T22:33:57+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.PhysicsMoverState</string>
+      <string>KinematicCharacterController.PhysicsMover</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63e8828991cf67f42bfeb498686aad0b</guid>
+    <fileName>Assets/KinematicCharacterController/Core/ReadOnlyAttribute.cs</fileName>
+    <timeStamp>2022-06-07T22:34:26+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.ReadOnlyAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7db3ed6d74cbf2b489cab5e1586bed7a</guid>
+    <fileName>Assets/KinematicCharacterController/Core/Editor/KinematicCharacterMotorEditor.cs</fileName>
+    <timeStamp>2022-06-07T22:34:35+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d4351ab88853824b85a8f458928d825</guid>
+    <fileName>Assets/KinematicCharacterController/Core/Editor/ReadOnlyPropertyDrawer.cs</fileName>
+    <timeStamp>2022-06-07T22:33:59+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24092a40b02616e479baeb940325e339</guid>
+    <fileName>Assets/KinematicCharacterController/ExampleCharacter/Scripts/ExampleCharacterCamera.cs</fileName>
+    <timeStamp>2022-06-07T22:34:08+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.ExampleCharacterCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76020eee813ed7844bcea94c5d5ce76a</guid>
+    <fileName>Assets/KinematicCharacterController/ExampleCharacter/Scripts/ExampleCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:32+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.CharacterState</string>
+      <string>KinematicCharacterController.Examples.OrientationMethod</string>
+      <string>KinematicCharacterController.Examples.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Examples.AICharacterInputs</string>
+      <string>KinematicCharacterController.Examples.BonusOrientationMethod</string>
+      <string>KinematicCharacterController.Examples.ExampleCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>461cd396e3fc7cc4eb9c92bde05c1b9a</guid>
+    <fileName>Assets/KinematicCharacterController/ExampleCharacter/Scripts/ExamplePlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:17+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.ExamplePlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f83a0772ca2f284c97e6c2e3b8b6c5b</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/BuildManager.cs</fileName>
+    <timeStamp>2022-06-07T22:34:21+05:30</timeStamp>
+    <typeFullName>
+      <string>BuildManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3414c4d01b68ef43aa3339915fd4001</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/ExampleAIController.cs</fileName>
+    <timeStamp>2022-06-07T22:35:05+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.ExampleAIController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7edc6957dab9ac4797c1c0912ce3839</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/ExampleMovingPlatform.cs</fileName>
+    <timeStamp>2022-06-07T22:34:48+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.ExampleMovingPlatform</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e404bfefdeb79904e847365ad9c6c205</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/FrameratePanel.cs</fileName>
+    <timeStamp>2022-06-07T22:34:59+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.FrameratePanel</string>
+      <string>KinematicCharacterController.Examples.FrameratePanelEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e89f443ce54ba1e469d5dd7141034d04</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/PlanetManager.cs</fileName>
+    <timeStamp>2022-06-07T22:35:00+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.PlanetManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>160d994062e8fe6418c50c339a9e34e0</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/PlayableMover.cs</fileName>
+    <timeStamp>2022-06-07T22:34:03+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.PlayableMover</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a743ceeddb93f0e4981433a18d793f00</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/PrefabLauncher.cs</fileName>
+    <timeStamp>2022-06-07T22:34:43+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.PrefabLauncher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d701116f722c264688042f476bbb604</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/StressTestManager.cs</fileName>
+    <timeStamp>2022-06-07T22:34:16+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.StressTestManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9b74e337ef86d944adf66d1906f11e2</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/Teleporter.cs</fileName>
+    <timeStamp>2022-06-07T22:34:56+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Examples.Teleporter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cadbe30962228814da245dc9809a62e7</guid>
+    <fileName>Assets/unity-sweeper/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-04-06T14:06:16.393597+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b989d0add4dffb4ea61914a93c21dfd</guid>
+    <fileName>Assets/unity-sweeper/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-04-06T14:06:16.3952312+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abf08dd50a204824787933cb46329428</guid>
+    <fileName>Assets/unity-sweeper/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-04-06T14:06:16.3961206+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd61a561ed70fa8408a9430b68bdcd79</guid>
+    <fileName>Assets/unity-sweeper/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-04-06T14:06:16.3961206+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>383df66405cae9d44b8e28e6e9ac6975</guid>
+    <fileName>Assets/unity-sweeper/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-04-06T14:06:16.3971555+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ea5b6273e65c2d48a1bdc19572f3bdd</guid>
+    <fileName>Assets/unity-sweeper/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-04-06T14:06:16.3971555+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>23fa5eb46266f154aa2d50e3538b4eca</guid>
+    <fileName>Assets/KinematicCharacterController/Examples/Scripts/Editor/PauseStateHandler.cs</fileName>
+    <timeStamp>2022-06-07T22:34:08+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b647278478c8694ab6b00ac51347de7</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/1- Player Camera Character Setup/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:19+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.PlayerCameraCharacterSetup.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0659d469a6cbf3448a556b714972454c</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/1- Player Camera Character Setup/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:33:57+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.PlayerCameraCharacterSetup.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cdd0dd2408e42ba47b026e5583efd762</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/10- Multiple movement states setup/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:53+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.MultipleMovementStates.CharacterState</string>
+      <string>KinematicCharacterController.Walkthrough.MultipleMovementStates.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.MultipleMovementStates.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7bad51a62556c6f4692fd8537d6e2c20</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/10- Multiple movement states setup/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:35+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.MultipleMovementStates.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>235082069226ea94baef1f813ba0f943</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/11- Charging state/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:07+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.ChargingState.CharacterState</string>
+      <string>KinematicCharacterController.Walkthrough.ChargingState.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.ChargingState.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>391e1ac2a4b71dc42ae1a24fabdc143a</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/11- Charging state/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:14+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.ChargingState.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>78ff0994cb11f364795e0da470aceef8</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/12- NoClip state/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:34+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.NoClipState.CharacterState</string>
+      <string>KinematicCharacterController.Walkthrough.NoClipState.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.NoClipState.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>04d7db6fb3ef0f548bf93754f0bbe224</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/12- NoClip state/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:33:57+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.NoClipState.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e0ea9886d276c4240a64a52df00bff13</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/13- Swimming state/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:58+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.SwimmingState.CharacterState</string>
+      <string>KinematicCharacterController.Walkthrough.SwimmingState.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.SwimmingState.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4713c253e1b718441b5183e3e7a50f24</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/13- Swimming state/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:18+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.SwimmingState.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d44422eef151e74c8387f4da8838cf6</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/14- Climbing Ladders/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:38+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.ClimbingLadders.CharacterState</string>
+      <string>KinematicCharacterController.Walkthrough.ClimbingLadders.ClimbingState</string>
+      <string>KinematicCharacterController.Walkthrough.ClimbingLadders.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.ClimbingLadders.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c9bfe760a258784bac7a3dfe4c2018d</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/14- Climbing Ladders/Scripts/MyLadder.cs</fileName>
+    <timeStamp>2022-06-07T22:34:35+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.ClimbingLadders.MyLadder</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73ad718951a54cd4da442fee50532dd1</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/14- Climbing Ladders/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:32+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.ClimbingLadders.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e96594aad710a0b43a67031fa15f8a06</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/15- Root motion example/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:35:01+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.RootMotionExample.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.RootMotionExample.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34acb1750e367084bac169843c2821b7</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/15- Root motion example/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:13+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.RootMotionExample.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e02114dc2e1293b4f8244608a11fd813</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/16- FramePerfect Rotation/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:58+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.FramePerfectRotation.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.FramePerfectRotation.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d329db918ea3e246adc0bfc1079c749</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/16- FramePerfect Rotation/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:33:59+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.FramePerfectRotation.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31e9f34d26f4f374f97ce0f3ef08b1a1</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/2- Basic Movement and Gravity/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:13+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.BasicMovement.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.BasicMovement.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3088a987cfc4884d8034b717aae4a89</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/2- Basic Movement and Gravity/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:55+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.BasicMovement.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df091ad91c1a6844b87fb18b9188f06d</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/4- Landing and leaving ground/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:57+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.LandingLeavingGround.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.LandingLeavingGround.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f17daa08753e6c14199407b2f3971697</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/4- Landing and leaving ground/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:35:03+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.LandingLeavingGround.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76afa3ea12e7d63489360dc431d1d060</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/5- Adding velocities and impulses/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:33+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.AddingImpulses.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.AddingImpulses.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d61a6c592b89654bb126e173fa60ab7</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/5- Adding velocities and impulses/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:33:59+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.AddingImpulses.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6219781d6ef1ea5479df78d516db814d</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/6- Crouching/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:26+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.Crouching.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.Crouching.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ee0baee98708fb428704385c47f518e</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/6- Crouching/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:36+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.Crouching.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5897ffdcb56cb34fad7242e28bb068f</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/7- Orienting towards arbitrary up direction/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:42+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.OrientingArbitraryDirection.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.OrientingArbitraryDirection.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff0421c50ba7dc9449dcc2547c937b63</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/7- Orienting towards arbitrary up direction/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:35:06+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.OrientingArbitraryDirection.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4090afa9dd8ffc54ca975f9e29324797</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/8- Creating a moving platform/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:16+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.MovingPlatform.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.MovingPlatform.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0b6a0daf518d7f54f913855065b51001</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/8- Creating a moving platform/Scripts/MyMovingPlatform.cs</fileName>
+    <timeStamp>2022-06-07T22:33:59+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.MovingPlatform.MyMovingPlatformState</string>
+      <string>KinematicCharacterController.Walkthrough.MovingPlatform.MyMovingPlatform</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e655bfd11ef2b5f4785511618a4d6e48</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/8- Creating a moving platform/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:59+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.MovingPlatform.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb2b1275c8cbcb94192c9ec38d260257</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/9- Custom collision filtering/Scripts/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:35:01+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.CollisionFiltering.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.CollisionFiltering.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66147f6206095b548bf949f7637c6fe7</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/9- Custom collision filtering/Scripts/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:27+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.CollisionFiltering.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f052f48e80bba64c8fd341e19240cd1</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/3- Jumping/Scripts/a- Simple Jumping/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:41+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.SimpleJumping.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.SimpleJumping.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2f934d74d9c62e409691089041cc749</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/3- Jumping/Scripts/a- Simple Jumping/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:50+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.SimpleJumping.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d04975d64d6f73489b29b0d953c1701</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/3- Jumping/Scripts/b- Double Jumping/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:11+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.DoubleJumping.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.DoubleJumping.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c1d3de52431e52141b1432cc9c5a1a80</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/3- Jumping/Scripts/b- Double Jumping/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:50+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.DoubleJumping.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2fd76c082aede85429438d24ce95942c</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/3- Jumping/Scripts/c- Wall Jumping/MyCharacterController.cs</fileName>
+    <timeStamp>2022-06-07T22:34:12+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.WallJumping.PlayerCharacterInputs</string>
+      <string>KinematicCharacterController.Walkthrough.WallJumping.MyCharacterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ab774effe3d22149bec95ad5454a24c</guid>
+    <fileName>Assets/KinematicCharacterController/Walkthrough/3- Jumping/Scripts/c- Wall Jumping/MyPlayer.cs</fileName>
+    <timeStamp>2022-06-07T22:34:24+05:30</timeStamp>
+    <typeFullName>
+      <string>KinematicCharacterController.Walkthrough.WallJumping.MyPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
