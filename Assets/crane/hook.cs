@@ -7,7 +7,10 @@ public class hook : MonoBehaviour
     bool picked = false;
     public float height = 8f;
     public GameObject pully_obj;
-    
+    public bool getpicked()
+    {
+        return picked;
+    }
 
     // Update is called once per frame
     void Update()
